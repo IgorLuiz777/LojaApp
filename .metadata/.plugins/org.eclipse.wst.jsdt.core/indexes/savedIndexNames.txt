@@ -1,0 +1,6 @@
+INDEX VERSION 1.4+D:\projects\LojaApp2\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2457222949.index
+508697524.index
+3261523130.index
+2241395184.index
+3154394393.index

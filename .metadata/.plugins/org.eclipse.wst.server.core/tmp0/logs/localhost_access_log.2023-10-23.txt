@@ -1,0 +1,13 @@
+127.0.0.1 - - [23/Oct/2023:11:41:31 -0300] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [23/Oct/2023:11:42:20 -0300] "GET /WebApi/rest/produtos HTTP/1.1" 200 647
+0:0:0:0:0:0:0:1 - - [23/Oct/2023:11:44:31 -0300] "GET /WebApi/rest/produtos/5 HTTP/1.1" 200 92
+0:0:0:0:0:0:0:1 - - [23/Oct/2023:11:44:52 -0300] "PUT /WebApi/rest/produtos/5 HTTP/1.1" 200 -
+0:0:0:0:0:0:0:1 - - [23/Oct/2023:11:45:00 -0300] "GET /WebApi/rest/produtos HTTP/1.1" 200 647
+0:0:0:0:0:0:0:1 - - [23/Oct/2023:11:58:37 -0300] "POST /WebApi/rest/produtos/8 HTTP/1.1" 405 725
+0:0:0:0:0:0:0:1 - - [23/Oct/2023:11:58:53 -0300] "GET /WebApi/rest/produtos HTTP/1.1" 200 647
+0:0:0:0:0:0:0:1 - - [23/Oct/2023:11:59:17 -0300] "POST /WebApi/rest/produtos/8 HTTP/1.1" 405 725
+0:0:0:0:0:0:0:1 - - [23/Oct/2023:11:59:33 -0300] "POST /WebApi/rest/produtos/10 HTTP/1.1" 405 725
+0:0:0:0:0:0:0:1 - - [23/Oct/2023:11:59:39 -0300] "POST /WebApi/rest/produtos/ HTTP/1.1" 201 -
+0:0:0:0:0:0:0:1 - - [23/Oct/2023:11:59:47 -0300] "GET /WebApi/rest/produtos HTTP/1.1" 200 717
+0:0:0:0:0:0:0:1 - - [23/Oct/2023:12:01:50 -0300] "DELETE /WebApi/rest/produtos/10 HTTP/1.1" 204 -
+0:0:0:0:0:0:0:1 - - [23/Oct/2023:12:01:54 -0300] "GET /WebApi/rest/produtos HTTP/1.1" 200 647
